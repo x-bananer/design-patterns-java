@@ -8,7 +8,7 @@ This repository contains Java implementations of design pattern assignments.
 
 ## Contents
 
-- [Factory Method](#factory-method)
+- [Factory Method](https://github.com/x-bananer/design-patterns-java/tree/main/src/main/java/factory_method)
 - Abstract Factory
 - Composite
 - Observer

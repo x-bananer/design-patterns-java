@@ -1,4 +1,4 @@
-# Design Patterns Java
+# Design Patterns in Java
 
 Course work for Design Patterns. A collection of selected design patterns implemented in Java.
 

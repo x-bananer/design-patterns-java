@@ -1,10 +1,6 @@
 # Design Patterns Java
 
-Course work for Design Patterns in Java.
-
-## Introduction
-
-This repository contains Java implementations of design pattern assignments.
+Course work for Design Patterns. A collection of selected design patterns implemented in Java.
 
 ## Contents
 

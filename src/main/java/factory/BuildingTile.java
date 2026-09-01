@@ -1,4 +1,4 @@
-package factory_method;
+package factory;
 
 public class BuildingTile implements Tile {
 	private String type = "building";

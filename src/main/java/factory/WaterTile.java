@@ -1,4 +1,4 @@
-package factory_method;
+package factory;
 
 public class WaterTile implements Tile {
 	private String type = "water";

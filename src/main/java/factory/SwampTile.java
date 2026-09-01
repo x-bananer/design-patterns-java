@@ -1,4 +1,4 @@
-package factory_method;
+package factory;
 
 public class SwampTile implements Tile {
 	private String type = "swamp";

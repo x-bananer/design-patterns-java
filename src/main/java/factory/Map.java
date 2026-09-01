@@ -1,4 +1,4 @@
-package factory_method;
+package factory;
 
 public abstract class Map {
     private Tile[][] tiles;

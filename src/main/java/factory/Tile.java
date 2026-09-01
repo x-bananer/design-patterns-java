@@ -1,4 +1,4 @@
-package factory_method;
+package factory;
 
 public interface Tile {
 	char getCharacter();

@@ -1,7 +1,7 @@
 # Abstract Factory
 
-## ASCII art user interfaces
+## ASCII Art User Interface
 
-This project demonstrates the Abstract Factory design pattern in Java through an ASCII art-based user interface. It creates UI elements in at least two distinct look-and-feel styles.
+The goal is to implement a simple ASCII art-based user interface element creation factory using the Abstract Factory design pattern in Java.
 
-Source assignment: [https://github.com/vesavvo/design_patterns/blob/master/markdown/assignments/abstract_factory.md](https://github.com/vesavvo/design_patterns/blob/master/markdown/assignments/abstract_factory.md)
+Source assignment: [https://github.com/vesavvo/design_patterns/blob/master/markdown/examples/abstract_factory.md](https://github.com/vesavvo/design_patterns/blob/master/markdown/assignments/abstract_factory.md)

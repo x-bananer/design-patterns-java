@@ -5,7 +5,7 @@ Course work for Design Patterns. A collection of selected design patterns implem
 ## Contents
 
 - [Factory Method](https://github.com/x-bananer/design-patterns-java/tree/main/src/main/java/factory)
-- Abstract Factory
+- [Abstract Factory](https://github.com/x-bananer/design-patterns-java/tree/main/src/main/java/abstract_factory)
 - Composite
 - Observer
 - Singleton

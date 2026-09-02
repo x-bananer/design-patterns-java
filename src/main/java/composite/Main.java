@@ -19,14 +19,16 @@ public class Main {
 		metropolia.add(business);
 
 		System.out.println("Total salary expenses: " + metropolia.getSalary());
-
 		metropolia.printXML();
 
 		ict.remove(anna);
-
 		System.out.println("Anna quit");
 		System.out.println("Total salary expenses: " + metropolia.getSalary());
+		metropolia.printXML();
 
+		ict.add(anna);
+		System.out.println("Anna has been hired back");
+		System.out.println("Total salary expenses: " + metropolia.getSalary());
 		metropolia.printXML();
 	}
 }

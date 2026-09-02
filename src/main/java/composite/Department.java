@@ -32,13 +32,13 @@ public class Department extends Component {
 	}
 
 	@Override
-	public void printXML() {
-		System.out.println("<department name=\"" + name + "\">");
+	protected void printXML(String indent) {
+		System.out.println(indent + "<department name=\"" + name + "\">");
 
 		for (Component child : children) {
-			child.printXML();
+			child.printXML(indent + " ");
 		}
 
-		System.out.println("</department>");
+		System.out.println(indent + "</department>");
 	}
 }

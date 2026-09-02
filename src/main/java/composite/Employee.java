@@ -24,7 +24,7 @@ public class Employee extends Component {
     }
 
 	@Override
-	public void printXML() {
-		System.out.println("<employee name=\"" + name + "\" salary=\"" + salary + "\" />");
+	protected void printXML(String indent) {
+		System.out.println(indent + "<employee name=\"" + name + "\" salary=\"" + salary + "\" />");
 	}
 }

@@ -13,5 +13,9 @@ public abstract class Component {
 
 	public abstract double getSalary();
 
-	public abstract void printXML();
+	public void printXML() {
+		printXML("");
+	}
+
+	protected abstract void printXML(String indent);
 }

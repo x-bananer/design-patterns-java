@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<organization>
+	<department name="Engineering">
+		<employee name="Anna" salary="4000"></employee>
+        <employee name="Sofia" salary="3000"></employee>
+	</department>
+	<department name="Marketing">
+		<employee name="Maria" salary="3500"></employee>
+	</department>
+</organization>

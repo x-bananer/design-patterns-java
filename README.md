@@ -10,7 +10,7 @@ Course work for Design Patterns. A collection of selected design patterns implem
 - Observer
 - Singleton
 - [Decorator](https://github.com/x-bananer/design-patterns-java/tree/main/src/main/java/decorator)
-- State
+- [State](https://github.com/x-bananer/design-patterns-java/tree/main/src/main/java/state)
 - Template Method
 - Strategy
 - Chain of Responsibility

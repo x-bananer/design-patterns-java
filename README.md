@@ -9,7 +9,7 @@ Course work for Design Patterns. A collection of selected design patterns implem
 - [Composite](https://github.com/x-bananer/design-patterns-java/tree/main/src/main/java/composite)
 - Observer
 - Singleton
-- Decorator
+- [Decorator](https://github.com/x-bananer/design-patterns-java/tree/main/src/main/java/decorator)
 - State
 - Template Method
 - Strategy

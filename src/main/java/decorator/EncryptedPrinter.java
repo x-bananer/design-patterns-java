@@ -11,6 +11,13 @@ public class EncryptedPrinter extends PrinterDecorator {
 	@Override
 	public void print(String message) {
 		String encryptedMessage = Base64.getEncoder().encodeToString(message.getBytes(StandardCharsets.UTF_8));
+
+		// decode
+		// String decodedMessage = new String(
+		// 	Base64.getDecoder().decode(encryptedMessage),
+		// 	StandardCharsets.UTF_8
+		// );
+
 		super.print(encryptedMessage);
 	}
 }

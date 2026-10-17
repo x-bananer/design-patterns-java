@@ -12,7 +12,7 @@ Course work for Design Patterns. A collection of selected design patterns implem
 - [Decorator](https://github.com/x-bananer/design-patterns-java/tree/main/src/main/java/decorator)
 - [State](https://github.com/x-bananer/design-patterns-java/tree/main/src/main/java/state)
 - [Template Method](https://github.com/x-bananer/design-patterns-java/tree/main/src/main/java/template_method)
-- Strategy
+- [Strategy](https://github.com/x-bananer/design-patterns-java/tree/main/src/main/java/strategy)
 - Chain of Responsibility
 - Memento
 - Proxy

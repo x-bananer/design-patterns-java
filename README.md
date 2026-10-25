@@ -14,7 +14,7 @@ Course work for Design Patterns. A collection of selected design patterns implem
 - [Template Method](https://github.com/x-bananer/design-patterns-java/tree/main/src/main/java/template_method)
 - [Strategy](https://github.com/x-bananer/design-patterns-java/tree/main/src/main/java/strategy)
 - [Chain of Responsibility](https://github.com/x-bananer/design-patterns-java/tree/main/src/main/java/chain_of_responsibility)
-- Memento
+- [Memento](https://github.com/x-bananer/design-patterns-java/tree/main/src/main/java/memento)
 - Proxy
 - Visitor
 - Builder

@@ -33,6 +33,11 @@ public class GamingComputerBuilder implements ComputerBuilder {
 	}
 
 	@Override
+	public void addAccessory(String name) {
+		computer.addComponent(new Component("Accessory: " + name));
+	}
+
+	@Override
 	public Computer getComputer() {
 		return this.computer;
 	}

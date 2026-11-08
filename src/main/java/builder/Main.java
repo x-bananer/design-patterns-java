@@ -9,6 +9,9 @@ public class Main {
 		director.setBuilder(officeBuilder);
 		director.constructComputer();
 
+		officeBuilder.addAccessory("Monitor");
+		officeBuilder.addAccessory("Mouse");
+
 		System.out.println("Office computer:");
 		System.out.println(officeBuilder.getComputer());
 
@@ -16,6 +19,9 @@ public class Main {
 		ComputerBuilder gamingBuilder = new GamingComputerBuilder();
 		director.setBuilder(gamingBuilder);
 		director.constructComputer();
+
+		gamingBuilder.addAccessory("Keyboard");
+		gamingBuilder.addAccessory("Headset");
 
 		System.out.println("Gaming computer:");
 		System.out.println(gamingBuilder.getComputer());

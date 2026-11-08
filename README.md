@@ -17,7 +17,7 @@ Course work for Design Patterns. A collection of selected design patterns implem
 - [Memento](https://github.com/x-bananer/design-patterns-java/tree/main/src/main/java/memento)
 - Proxy
 - Visitor
-- Builder
+- [Builder](https://github.com/x-bananer/design-patterns-java/tree/main/src/main/java/builder)
 - Adapter
 - Bridge
 - Flyweight

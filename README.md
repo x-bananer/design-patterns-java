@@ -18,7 +18,7 @@ Course work for Design Patterns. A collection of selected design patterns implem
 - Proxy
 - Visitor
 - [Builder](https://github.com/x-bananer/design-patterns-java/tree/main/src/main/java/builder)
-- Adapter
+- [Adapter](https://github.com/x-bananer/design-patterns-java/tree/main/src/main/java/adapter)
 - Bridge
 - Flyweight
 - Prototype
